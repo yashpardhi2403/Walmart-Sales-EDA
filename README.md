@@ -74,7 +74,7 @@
 - **Python 3.8+**
 - **SQL Databases**: MySQL, PostgreSQL
 - **Python Libraries**:
-  - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
+  - `pandas`, `numpy`, `sqlalchemy`
 - **Kaggle API Key** (for data downloading)
 
 
